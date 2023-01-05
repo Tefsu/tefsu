@@ -1,5 +1,8 @@
-### Olá, sou o Teferson :)
+### 🎮 Olá, me chamo Teferson 🎮
 
+##
+ Começarei a usar mais este perfil no github apartir deste ano de 2023, postarei meus projetos e material de estudo.
+##
 
 <a href="https://github.com/tefsu">
   <img width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=tefsu&count_private=true&show_icons=true&theme=dracula" />
