@@ -2,8 +2,8 @@
 
 
 <a href="https://github.com/tefsu">
-  <img width="100em" align="center" src="https://github-readme-stats.vercel.app/api?username=tefsu&count_private=true&show_icons=true&theme=dracula" />
+  <img width="280em" align="center" src="https://github-readme-stats.vercel.app/api?username=tefsu&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/tefsu">
-  <img width="100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tefsu&layout=compact&theme=dracula" />
+  <img width="280em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tefsu&layout=compact&theme=dracula" />
 </a>
